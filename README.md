@@ -21,7 +21,7 @@
 
 ## 📷 Screenshots  
 ### 🎯 Input Matrix  
-![Matrix Generation](screenshot1.png)  
+![Matrix Generation](The-Celebrity-Problem-Visualizer/Screenshot(1825).png)  
 
 ### 🏆 Celebrity Identification  
-![Celebrity Found](screenshot2.png)  
+![Celebrity Found](The-Celebrity-Problem-Visualizer/Screenshot(1825).png)  
