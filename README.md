@@ -21,7 +21,7 @@
 
 ## 📷 Screenshots  
 ### 🎯 Input Matrix  
-![Matrix Generation](Screenshot(1825).png)  
+![Matrix Generation](https://github.com/Parnika215/The-Celebrity-Problem-Visualizer/blob/main/Screenshot%20(1825).png?raw=true)  
 
 ### 🏆 Celebrity Identification  
-![Celebrity Found](Screenshot(1825).png)  
+![Celebrity Found](https://github.com/Parnika215/The-Celebrity-Problem-Visualizer/blob/main/Screenshot%20(1826).png?raw=true)  
